@@ -4,7 +4,7 @@
 
 A two-player version of TicTacToe that runs on the command line!
 
-Written in two days by Liam G. in Java.
+Written by Liam G. in Java.
 
 To run the project from the command line, run the following:
 
